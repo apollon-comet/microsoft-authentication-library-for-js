@@ -20,7 +20,7 @@
         "plugin:react-hooks/recommended",
         "plugin:security/recommended",
         "plugin:import/typescript",
-        "prettier"
+        "prettier",
     ],
     "rules": {
         "@angular-eslint/component-class-suffix": 2,

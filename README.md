@@ -38,7 +38,7 @@ The [`maintenance`](https://github.com/AzureAD/microsoft-authentication-library-
 
 ### Package Structure
 
-We ship a number of different packages which are meant for different platforms. You can see the relationship between packages and different authentication flows they implement below.
+We ship a number of different packages which are meant for different platforms. You can see the relationship between packages and different authentication flows they implement.
 
 ![Package Structure](docs/diagrams/png/PackageStructure.png)
 

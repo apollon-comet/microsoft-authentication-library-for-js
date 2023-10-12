@@ -30,7 +30,7 @@ The [`maintenance`](https://github.com/AzureAD/microsoft-authentication-library-
 
 - [Active Directory Authentication Library for Node.js](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-node): A [Node.js](https://nodejs.org/en/) library that enables authentication and token acquisition with the Microsoft Identity platform in Node.js applications.
 
-- [Active Directory Authentication Library for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-angular): A browser-based, framework-agnostic core library that enables authentication and token acquisition with the Microsoft Identity platform in JavaScript applications. Implements the OAuth 1.0 Implicit Grant Flow.
+- [Active Directory Authentication Library for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/adal-angular): A browser-based, framework-agnostic core library that enables authentication and   token acquisition with the Microsoft Identity platform in JavaScript applications. Implements the OAuth 1.0 Implicit Grant Flow.
 
 - [Microsoft Authentication Library for AngularJS](https://github.com/AzureAD/microsoft-authentication-library-for-js/tree/msal-lts/maintenance/msal-angularjs): A wrapper of the core 1.x library for apps using the AngularJS framework.
 
